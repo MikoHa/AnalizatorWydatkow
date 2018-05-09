@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnalizatorWydatkowV3</string>
+    <string name="preference_file_key">com.mikolaj.analizatorwydatkowv3</string>
+    <string name="text_month_money">W Tym miesiącu pozostało Ci:</string>
+    <string name="text_week_money">W Tym tygodniu pozostało Ci: </string>
+    <string name="currency">Złoty</string>
+    <string name="expenses_button">Kliknij aby wprowdzić nowe wydatki</string>
+    <string name="money_picker_title">Wprowadź gotówke</string>
+    <string name="new_week">Nowy tydzień</string>
+    <string name="new_month">Nowy miesiąc</string>
+    <string name="reset">Zresetuj stan</string>
+    <string name="super_money">Dodaj gotówkę</string>
+</resources>
