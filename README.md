@@ -20,10 +20,10 @@ zewnętrznej biblioteki o nazwie MPAndroidChart, udostępnionej na platformie gi
 
 <b>Aplikacja zawiera rozwijane menu które zawiera następujące opcje:</b>
 
-<br>zresetuj stan,</br>
-<br>dodaj gotówke,</br>
-<br>nowy tydzień,</br>
-<br>nowy miesiąc.</br>
+<pre>zresetuj stan,
+dodaj gotówke,
+nowy tydzień,
+nowy miesiąc.</pre>
 
 <b>W kolejnym wydaniu AnalizatoraWydatków zostaną dodane/poprawione, następujące elementy:</b>
 
