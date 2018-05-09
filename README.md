@@ -5,15 +5,15 @@ w ciągu miesiaca. Aplikacja wykorzystuje baze danych SQlite, w której są zapi
 
 Aplikacja dzieli się na trzy fragmenty zarządzane za pomocą menagera układu ViewPager, są to: 
 
-Wydatki:
+<b>Wydatki:</b>
 
 Znajdują się tutaj ostatnio dodane wydatki. Do wyświetlenia listy wydatków została zaimplementowana grupa widoku o nazwię RecyclerView. 
 
-Status:
+<b>Status:</b>
 
 Wyświetlany jest tutaj stan gotówki w ciągu miesiąca oraz tygodnia. Znajduję się tutaj także przycisk do wprowadzania wydatków. 
 
-Statystyki: 
+<b>Statystyki:</b> 
 
 Aplikacja wyświetla miesięczne statystyki na podstawie sumy wydanych pieniędzy w danym dniu. Statystyki są generowane za pomocą
 zewnętrznej biblioteki o nazwie MPAndroidChart, udostępnionej na platformie github. 
