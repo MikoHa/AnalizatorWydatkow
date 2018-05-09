@@ -18,14 +18,14 @@ Wyświetlany jest tutaj stan gotówki w ciągu miesiąca oraz tygodnia. Znajduj�
 Aplikacja wyświetla miesięczne statystyki na podstawie sumy wydanych pieniędzy w danym dniu. Statystyki są generowane za pomocą
 zewnętrznej biblioteki o nazwie MPAndroidChart, udostępnionej na platformie github. 
 
-Aplikacja zawiera rozwijane menu które zawiera następujące opcje:
+<b>Aplikacja zawiera rozwijane menu które zawiera następujące opcje:</b>
 
-zresetuj stan,
-dodaj gotówke,
-nowy tydzień,
-nowy miesiąc.
+<br>zresetuj stan,</br>
+<br>dodaj gotówke,</br>
+<br>nowy tydzień,</br>
+<br>nowy miesiąc.</br>
 
-W kolejnym wydaniu AnalizatoraWydatków zostaną dodane/poprawione, następujące elementy: 
+<b>W kolejnym wydaniu AnalizatoraWydatków zostaną dodane/poprawione, następujące elementy:</b>
 
 funkcja automatycznego przełączania tygodni oraz miesięcy,
 wprowadzenie kategorii dla kupowanych produktów,
